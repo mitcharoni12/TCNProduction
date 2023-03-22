@@ -1,0 +1,29 @@
+#ifndef FILLER_H
+#define FILLER_H
+
+#include ".hh"
+
+class FILLER : public FILLER
+{
+public:
+    FILLER();
+    ~FILLER();
+private:
+
+};
+
+#endif
+
+
+
+#include "FILLER.hh"
+
+FILLER::FILLER()
+{
+
+}
+
+FILLER::~FILLER()
+{
+
+}

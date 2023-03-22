@@ -1,0 +1,4 @@
+/home/jamal/TCNProduction/build/CMakeFiles/rebuild_cache.dir
+/home/jamal/TCNProduction/build/CMakeFiles/edit_cache.dir
+/home/jamal/TCNProduction/build/CMakeFiles/TCNProduction.dir
+/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir
