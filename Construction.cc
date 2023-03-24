@@ -28,5 +28,16 @@ G4VPhysicalVolume* Construction::Construct()
     G4LogicalVolume* logicQuartz = new G4LogicalVolume(quartzBox, quartz, "quartzBox");
     G4VPhysicalVolume* quartzTarget = new G4PVPlacement(0, G4ThreeVector(0.0, 0.0, 0.5*m), logicQuartz, "logicQuartz", logicSpFlow, false, 0, true);
 
+    //Temp detector
+    G4Box* tempDetector = new G4Box("tempDetector", 0.005*m, 0.005*m, 0.005*m);
+    logicDetector = new G4LogicalVolume(tempDetector, lightAir, "tempDetector");
+    G4VPhysicalVolume* detector = new G4PVPlacement(0, G4ThreeVector(0.1*m, 0.1*m, 0.5*m), logicDetector, "logicDetector", logicSpFlow, false, 0, true);
+
     return SPFlow;
+}
+
+void Construction::ConstructSDandField()
+{
+    Detector *testDetector = new Detector("testingDetector");
+    logicDetector->SetSensitiveDetector(testDetector);
 }

@@ -6,6 +6,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/jamal/TCNProduction/Action.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/Action.cc.o"
   "/home/jamal/TCNProduction/Construction.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/Construction.cc.o"
+  "/home/jamal/TCNProduction/Detector.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/Detector.cc.o"
   "/home/jamal/TCNProduction/PhysList.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/PhysList.cc.o"
   "/home/jamal/TCNProduction/PrimaryGeneratorAction.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/PrimaryGeneratorAction.cc.o"
   "/home/jamal/TCNProduction/TCNSim.cc" "/home/jamal/TCNProduction/build/CMakeFiles/TCNSim.dir/TCNSim.cc.o"

@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TCNSim.dir/Action.cc.o"
   "CMakeFiles/TCNSim.dir/Construction.cc.o"
+  "CMakeFiles/TCNSim.dir/Detector.cc.o"
   "CMakeFiles/TCNSim.dir/PhysList.cc.o"
   "CMakeFiles/TCNSim.dir/PrimaryGeneratorAction.cc.o"
   "CMakeFiles/TCNSim.dir/TCNSim.cc.o"

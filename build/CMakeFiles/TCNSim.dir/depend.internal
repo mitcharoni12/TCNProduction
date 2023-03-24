@@ -5,39 +5,148 @@ CMakeFiles/TCNSim.dir/Action.cc.o
  /home/jamal/TCNProduction/Action.cc
  /home/jamal/TCNProduction/Action.hh
  /home/jamal/TCNProduction/PrimaryGeneratorAction.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Point3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Allocator.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AllocatorPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ApplicationState.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AutoLock.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AuxiliaryNavServices.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AuxiliaryNavServices.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4BlockingList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4BlockingList.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Cache.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CacheDetails.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataInterpolation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Event.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Exception.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSSolid.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSSolid.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSource.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceData.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceMessenger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomSplitter.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GlobalConfig.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4HCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Log.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLogger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Navigator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Navigator.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NormalNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NormalNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParameterisedNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParameterisedNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleGun.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleMomentum.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTableIterator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVectorType.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PrimaryParticle.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PrimaryVertex.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReferenceCountedHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RegularNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReplicaNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReplicaNavigation.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RotationMatrix.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSAngDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSEneDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSPosDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSRandomGenerator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SingleParticleSource.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelNode.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelNode.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelProxy.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelProxy.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SystemOfUnits.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Threading.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistoryHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrajectoryContainer.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Transform3D.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIcommand.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIdirectory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UImessenger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIparameter.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UItokenNum.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VDigiCollection.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExceptionHandler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExternalNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHitsCollection.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPVParameterisation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPrimaryGenerator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTrajectory.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserActionInitialization.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserEventInformation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VVolumeMaterialScanner.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VoxelNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VoxelNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ios.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Utility.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/evtdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/globals.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/pwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/templates.hh
@@ -45,6 +154,7 @@ CMakeFiles/TCNSim.dir/Action.cc.o
 CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/TCNProduction/Construction.cc
  /home/jamal/TCNProduction/Construction.hh
+ /home/jamal/TCNProduction/Detector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Plane3D.h
@@ -75,13 +185,19 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/TwoVector.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Allocator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AllocatorPool.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AutoLock.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4BoundingEnvelope.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Box.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Box.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CSGSolid.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CollectionNameVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DynamicParticle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DynamicParticle.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElectronOccupancy.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Element.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementVector.hh
@@ -93,6 +209,7 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomSplitter.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomTypes.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GlobalConfig.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4HCofThisEvent.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ICRU90StoppingData.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4IonisParamElm.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4IonisParamMat.hh
@@ -101,18 +218,31 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Log.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LorentzVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Material.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertiesIndex.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertiesTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertyVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NistElementBuilder.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NistManager.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NistMaterialBuilder.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Normal3D.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OrderedTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PVPlacement.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleMomentum.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsModelCatalog.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVectorType.hh
@@ -120,15 +250,32 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Point3D.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Polyhedron.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Pow.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReferenceCountedHandle.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RotationMatrix.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SandiaTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SensitiveVolumeList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Step.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Step.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepPoint.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepPoint.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepStatus.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SteppingControl.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SystemOfUnits.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Threading.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Track.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Track.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrackStatus.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrackVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Transform3D.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TwoVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Types.hh
@@ -136,11 +283,19 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UBox.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExceptionHandler.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VGraphicsScene.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHit.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHitsCollection.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VReadOutGeometry.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSDFilter.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSensitiveDetector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserDetectorConstruction.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserTrackInformation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VisExtent.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Visible.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Visible.icc
@@ -148,24 +303,153 @@ CMakeFiles/TCNSim.dir/Construction.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VoxelLimits.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ios.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/HepPolyhedron.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Utility.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/pwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/templates.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/tls.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/trkdefs.hh
+CMakeFiles/TCNSim.dir/Detector.cc.o
+ /home/jamal/TCNProduction/Detector.cc
+ /home/jamal/TCNProduction/Detector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Point3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Allocator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AllocatorPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AutoLock.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CollectionNameVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DynamicParticle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DynamicParticle.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElectronOccupancy.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Element.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Exception.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Exp.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomSplitter.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GlobalConfig.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4HCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4IonisParamElm.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4IonisParamMat.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Isotope.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4IsotopeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Log.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LorentzVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Material.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertiesIndex.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertiesTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialPropertyVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OrderedTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleMomentum.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsModelCatalog.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVectorType.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReferenceCountedHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RotationMatrix.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SandiaTable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SensitiveVolumeList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Step.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Step.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepPoint.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepPoint.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4StepStatus.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SteppingControl.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Threading.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Track.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Track.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrackStatus.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrackVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Transform3D.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExceptionHandler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHit.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHitsCollection.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VReadOutGeometry.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSDFilter.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSensitiveDetector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserTrackInformation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ios.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Utility.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomwdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/pwdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/templates.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/tls.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/trkdefs.hh
 CMakeFiles/TCNSim.dir/PhysList.cc.o
  /home/jamal/TCNProduction/PhysList.cc
  /home/jamal/TCNProduction/PhysList.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Utility/defs.h
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AutoLock.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Backtrace.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Cache.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CacheDetails.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EmStandardPhysics.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EnvironmentUtils.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Exception.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ExceptionSeverity.hh
@@ -173,8 +457,6 @@ CMakeFiles/TCNSim.dir/PhysList.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GlobalConfig.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MCCIndexConversionTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4MaterialCutsCouple.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpticalParameters.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpticalPhysics.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
@@ -192,7 +474,6 @@ CMakeFiles/TCNSim.dir/PhysList.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreadLocalSingleton.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Threading.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreeVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Types.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExceptionHandler.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VModularPhysicsList.hh
@@ -209,38 +490,147 @@ CMakeFiles/TCNSim.dir/PhysList.cc.o
 CMakeFiles/TCNSim.dir/PrimaryGeneratorAction.cc.o
  /home/jamal/TCNProduction/PrimaryGeneratorAction.cc
  /home/jamal/TCNProduction/PrimaryGeneratorAction.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Normal3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Point3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Transform3D.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/Vector3D.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/PhysicalConstants.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Units/SystemOfUnits.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Utility/defs.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/AxisAngle.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/LorentzVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/Rotation.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationInterfaces.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationX.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationY.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.h
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/RotationZ.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.h
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Vector/ThreeVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AffineTransform.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Allocator.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AllocatorPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ApplicationState.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AutoLock.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AuxiliaryNavServices.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4AuxiliaryNavServices.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4BlockingList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4BlockingList.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Cache.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CacheDetails.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataInterpolation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EnvironmentUtils.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Event.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Exception.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ExceptionSeverity.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSSolid.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSSolid.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSource.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceData.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceMessenger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomSplitter.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GlobalConfig.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4HCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Log.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4LogicalVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationHistoryPool.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevel.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLevelRep.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NavigationLogger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Navigator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Navigator.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NormalNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4NormalNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParameterisedNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParameterisedNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleGun.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleMomentum.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTableIterator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsFreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVector.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsVectorType.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PrimaryParticle.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PrimaryVertex.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Profiler.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReferenceCountedHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Region.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RegularNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReplicaNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ReplicaNavigation.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RotationMatrix.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSAngDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSEneDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSPosDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSRandomGenerator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SingleParticleSource.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelNode.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelNode.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelProxy.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelProxy.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4String.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SystemOfUnits.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Threading.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ThreeVector.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistory.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TouchableHistoryHandle.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4TrajectoryContainer.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Transform3D.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIcommand.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIdirectory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UImessenger.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UIparameter.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4UItokenNum.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VDigiCollection.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExceptionHandler.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VExternalNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VHitsCollection.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPVParameterisation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPhysicalVolume.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPrimaryGenerator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTouchable.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VTrajectory.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserEventInformation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VVolumeMaterialScanner.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VoxelNavigation.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VoxelNavigation.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ios.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Globals.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Types.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/PTL/Utility.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/evtdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomdefs.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/geomwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/globals.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/pwdefs.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/templates.hh
@@ -248,7 +638,7 @@ CMakeFiles/TCNSim.dir/PrimaryGeneratorAction.cc.o
 CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/TCNProduction/Action.hh
  /home/jamal/TCNProduction/Construction.hh
- /home/jamal/TCNProduction/PhysList.hh
+ /home/jamal/TCNProduction/Detector.hh
  /home/jamal/TCNProduction/PrimaryGeneratorAction.hh
  /home/jamal/TCNProduction/TCNSim.cc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/CLHEP/Geometry/BasicVector3D.h
@@ -344,10 +734,12 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Cache.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CacheDetails.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ClassificationOfNewTrack.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4CollectionNameVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Color.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Colour.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DAWNFILE.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DCofThisEvent.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataInterpolation.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DataVector.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4DigiFilterFactories.hh
@@ -357,7 +749,6 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Element.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ElementVector.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EmStandardPhysics.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EnvironmentUtils.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Event.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4EventManager.hh
@@ -372,6 +763,9 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSSolid.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GRSVolume.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSource.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceData.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeneralParticleSourceMessenger.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomConfig.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomSplitter.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4GeomTypes.hh
@@ -420,8 +814,6 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpenGLImmediateQt.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpenGLQt.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpenGLStoredQt.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpticalParameters.hh
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OpticalPhysics.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4OrderedTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PDefManager.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PVPlacement.hh
@@ -431,11 +823,11 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleChange.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleDefinition.icc
- /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleGun.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleMomentum.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTable.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4ParticleTableIterator.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysListFactory.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicalVolumeModel.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsFreeVector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4PhysicsListHelper.hh
@@ -473,11 +865,17 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RotationMatrix.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RunManager.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4RunManagerKernel.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSAngDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSEneDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSPosDistribution.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SPSRandomGenerator.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SandiaTable.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Scene.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4Scene.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SceneHandlerList.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SceneList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SensitiveVolumeList.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SingleParticleSource.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartTrackStack.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4SmartVoxelHeader.icc
@@ -558,8 +956,11 @@ CMakeFiles/TCNSim.dir/TCNSim.cc.o
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VPrimaryGenerator.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VProcess.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VRML2File.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VReadOutGeometry.hh
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSDFilter.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSceneHandler.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSceneHandler.icc
+ /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSensitiveDetector.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.hh
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VSolid.icc
  /home/jamal/geant4/geant4-v11.0.2-install/include/Geant4/G4VStateDependent.hh

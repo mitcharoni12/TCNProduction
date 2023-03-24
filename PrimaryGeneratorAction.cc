@@ -2,22 +2,15 @@
 
 PrimaryGeneratorAction::PrimaryGeneratorAction()
 {
-    muParticleGun = new G4ParticleGun(1);
-    parTable = G4ParticleTable::GetParticleTable();
-    muon = parTable->FindParticle("mu+");
-
-    muParticleGun->SetParticleDefinition(muon);
-    muParticleGun->SetParticlePosition(G4ThreeVector(0.,0.,0.));
-    muParticleGun->SetParticleMomentumDirection(G4ThreeVector(0., 0., 1.));
-    muParticleGun->SetParticleMomentum(1000.*GeV);
+    particleGun = new G4GeneralParticleSource();
 }
 
 PrimaryGeneratorAction::~PrimaryGeneratorAction()
 {
-    delete muParticleGun;
+    delete particleGun;
 }
 
 void PrimaryGeneratorAction::GeneratePrimaries(G4Event* event)
 {
-    muParticleGun->GeneratePrimaryVertex(event);
+    particleGun->GeneratePrimaryVertex(event);
 }

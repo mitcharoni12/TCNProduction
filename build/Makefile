@@ -190,6 +190,33 @@ Construction.cc.s:
 	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/Construction.cc.s
 .PHONY : Construction.cc.s
 
+Detector.o: Detector.cc.o
+
+.PHONY : Detector.o
+
+# target to build an object file
+Detector.cc.o:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/Detector.cc.o
+.PHONY : Detector.cc.o
+
+Detector.i: Detector.cc.i
+
+.PHONY : Detector.i
+
+# target to preprocess a source file
+Detector.cc.i:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/Detector.cc.i
+.PHONY : Detector.cc.i
+
+Detector.s: Detector.cc.s
+
+.PHONY : Detector.s
+
+# target to generate assembly for a file
+Detector.cc.s:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/Detector.cc.s
+.PHONY : Detector.cc.s
+
 PhysList.o: PhysList.cc.o
 
 .PHONY : PhysList.o
@@ -287,6 +314,9 @@ help:
 	@echo "... Construction.o"
 	@echo "... Construction.i"
 	@echo "... Construction.s"
+	@echo "... Detector.o"
+	@echo "... Detector.i"
+	@echo "... Detector.s"
 	@echo "... PhysList.o"
 	@echo "... PhysList.i"
 	@echo "... PhysList.s"
