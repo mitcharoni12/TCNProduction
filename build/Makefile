@@ -271,6 +271,33 @@ PrimaryGeneratorAction.cc.s:
 	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/PrimaryGeneratorAction.cc.s
 .PHONY : PrimaryGeneratorAction.cc.s
 
+RunAction.o: RunAction.cc.o
+
+.PHONY : RunAction.o
+
+# target to build an object file
+RunAction.cc.o:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/RunAction.cc.o
+.PHONY : RunAction.cc.o
+
+RunAction.i: RunAction.cc.i
+
+.PHONY : RunAction.i
+
+# target to preprocess a source file
+RunAction.cc.i:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/RunAction.cc.i
+.PHONY : RunAction.cc.i
+
+RunAction.s: RunAction.cc.s
+
+.PHONY : RunAction.s
+
+# target to generate assembly for a file
+RunAction.cc.s:
+	$(MAKE) -f CMakeFiles/TCNSim.dir/build.make CMakeFiles/TCNSim.dir/RunAction.cc.s
+.PHONY : RunAction.cc.s
+
 TCNSim.o: TCNSim.cc.o
 
 .PHONY : TCNSim.o
@@ -323,6 +350,9 @@ help:
 	@echo "... PrimaryGeneratorAction.o"
 	@echo "... PrimaryGeneratorAction.i"
 	@echo "... PrimaryGeneratorAction.s"
+	@echo "... RunAction.o"
+	@echo "... RunAction.i"
+	@echo "... RunAction.s"
 	@echo "... TCNSim.o"
 	@echo "... TCNSim.i"
 	@echo "... TCNSim.s"

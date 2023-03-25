@@ -15,8 +15,8 @@
 /gps/ene/type User
 /gps/hist/type energy
 
-/gps/hist/point 1 0
-/gps/hist/point 2 1000
+/gps/hist/point 1.0 0.0
+/gps/hist/point 2.0 1000.0
 /gps/hist/point 3 2
 /gps/hist/point 4 3
 /gps/hist/point 5 4
@@ -27,4 +27,3 @@
 /gps/hist/point 10 900
 
 /run/beamOn 1
-

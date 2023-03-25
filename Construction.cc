@@ -25,13 +25,18 @@ G4VPhysicalVolume* Construction::Construct()
 
     //Quartz target defintion
     G4Box* quartzBox = new G4Box("quartzBox", 0.005*m, 0.005*m, 0.005*m);
-    G4LogicalVolume* logicQuartz = new G4LogicalVolume(quartzBox, quartz, "quartzBox");
+    logicQuartz = new G4LogicalVolume(quartzBox, quartz, "quartzBox");
     G4VPhysicalVolume* quartzTarget = new G4PVPlacement(0, G4ThreeVector(0.0, 0.0, 0.5*m), logicQuartz, "logicQuartz", logicSpFlow, false, 0, true);
 
     //Temp detector
-    G4Box* tempDetector = new G4Box("tempDetector", 0.005*m, 0.005*m, 0.005*m);
-    logicDetector = new G4LogicalVolume(tempDetector, lightAir, "tempDetector");
-    G4VPhysicalVolume* detector = new G4PVPlacement(0, G4ThreeVector(0.1*m, 0.1*m, 0.5*m), logicDetector, "logicDetector", logicSpFlow, false, 0, true);
+    //G4Box* tempDetector = new G4Box("tempDetector", 0.005*m, 0.005*m, 0.005*m);
+    //logicDetector = new G4LogicalVolume(tempDetector, lightAir, "tempDetector");
+    //G4VPhysicalVolume* detector = new G4PVPlacement(0, G4ThreeVector(0.0, 0.0, 0.49*m), logicDetector, "logicDetector", logicSpFlow, false, 0, true);
+
+    //Temp detector 2
+    //G4Box* tempDetector2 = new G4Box("tempDetector2", 0.005*m, 0.005*m, 0.005*m);
+    //logicDetector2 = new G4LogicalVolume(tempDetector2, lightAir, "tempDetector2");
+    //G4VPhysicalVolume* detector2 = new G4PVPlacement(0, G4ThreeVector(0.0, 0.0, 0.51*m), logicDetector2, "logicDetector2", logicSpFlow, false, 0, true);
 
     return SPFlow;
 }
@@ -39,5 +44,6 @@ G4VPhysicalVolume* Construction::Construct()
 void Construction::ConstructSDandField()
 {
     Detector *testDetector = new Detector("testingDetector");
-    logicDetector->SetSensitiveDetector(testDetector);
+
+    logicQuartz->SetSensitiveDetector(testDetector);
 }

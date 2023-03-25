@@ -19,7 +19,8 @@ public:
     ~Construction();
     virtual G4VPhysicalVolume* Construct();
 private:
-    G4LogicalVolume *logicDetector;
+    G4LogicalVolume *logicQuartz;
+
     virtual void ConstructSDandField();
 };
 
