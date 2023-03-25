@@ -32,7 +32,7 @@ file.write("/gps/pos/rot1 1 0 0\n")
 file.write("/gps/pos/rot2 0 1 0\n\n")
 
 file.write("/gps/pos/shape Square\n")
-file.write("/gps/pos/centre 0.0 0.0 0.6 m\n")
+file.write("/gps/pos/centre 0.0 0.0 0.92 m\n")
 file.write("/gps/pos/halfx 0.5 cm\n")
 file.write("/gps/pos/halfy 0.5 cm\n\n")
 
@@ -65,7 +65,8 @@ fluxesE2 = neutronFlux(energiesE2) * delta2
 fluxesE3 = neutronFlux(energiesE3) * delta3
 fluxesE4 = neutronFlux(energiesE4) * delta4
 
-file.write("/gps/hist/point 4.8 0\n")
+file.write("/gps/hist/point 0 0.00000000\n")
+file.write("/gps/hist/point 4.8 0.00000000\n")
 for i in range (0, 250):
     file.write("/gps/hist/point "+ str(energiesE1[i])+ " "+ str(fluxesE1[i])+ "\n")
 

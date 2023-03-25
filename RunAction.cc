@@ -17,6 +17,7 @@ void RunAction::BeginOfRunAction(const G4Run*)
     man->OpenFile("output.root");
     man->CreateNtuple("Energy", "Energy");
     man->CreateNtupleDColumn("Energies");
+    man->CreateNtupleIColumn("detectorNo");
     man->FinishNtuple(0);
 }
 

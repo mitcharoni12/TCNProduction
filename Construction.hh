@@ -11,6 +11,7 @@
 #include "G4PVPlacement.hh"
 #include "G4ThreeVector.hh"
 #include "Detector.hh"
+#include "G4Sphere.hh"
 
 class Construction : public G4VUserDetectorConstruction
 {
@@ -19,7 +20,8 @@ public:
     ~Construction();
     virtual G4VPhysicalVolume* Construct();
 private:
-    G4LogicalVolume *logicQuartz;
+    G4LogicalVolume *logicDetector;
+    G4LogicalVolume *logicDetector2;
 
     virtual void ConstructSDandField();
 };

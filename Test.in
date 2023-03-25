@@ -1,6 +1,6 @@
 /run/initialize
 
-/random/setSeeds 1679703767.8031476 35
+/random/setSeeds 1679765980.280734 35
 
 /gps/verbose 0
 /gps/particle neutron
@@ -10,14 +10,15 @@
 /gps/pos/rot2 0 1 0
 
 /gps/pos/shape Square
-/gps/pos/centre 0.0 0.0 0.6 m
+/gps/pos/centre 0.0 0.0 0.92 m
 /gps/pos/halfx 0.5 cm
 /gps/pos/halfy 0.5 cm
 
 /gps/ene/type User
 /gps/hist/type energy
 
-/gps/hist/point 4.8 0
+/gps/hist/point 0 0.00000000
+/gps/hist/point 4.8 0.00000000
 /gps/hist/point 5.0 0.00047342423631262963
 /gps/hist/point 5.180722891566265 0.00046185934383124555
 /gps/hist/point 5.36144578313253 0.0004509900074259027
