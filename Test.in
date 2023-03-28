@@ -1,6 +1,6 @@
 /run/initialize
 
-/random/setSeeds 1679765980.280734 35
+/random/setSeeds 1680021995.2971308 35
 
 /gps/verbose 0
 /gps/particle neutron
@@ -1020,4 +1020,4 @@
 /gps/hist/point 9964.0 7.07956026842762e-05
 /gps/hist/point 10000.0 6.995780643419969e-05
 
-/run/beamOn 10000
+/run/beamOn 10000000

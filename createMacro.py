@@ -40,6 +40,11 @@ file.write("/gps/ene/type User\n")
 file.write("/gps/hist/type energy\n\n")
 
 #Calculate the weights to send into the histogram for geant4
+#E5min = 0.1
+#E5Max = 5
+#delta5 = (E5Max-E5min) / 200
+#energiesE5 = np.linspace(E5min, E5Max, 200)
+
 E1min = 5
 E1Max = 50
 delta1 = (E1Max-E1min) / 250
@@ -60,6 +65,7 @@ E4Max = 10000
 delta4 = (E4Max-E4min) / 250
 energiesE4 = np.linspace(E4min + delta4, E4Max, 250)
 
+#fluxesE5 = neutronFlux(energiesE5) * delta5
 fluxesE1 = neutronFlux(energiesE1) * delta1
 fluxesE2 = neutronFlux(energiesE2) * delta2
 fluxesE3 = neutronFlux(energiesE3) * delta3
@@ -67,6 +73,9 @@ fluxesE4 = neutronFlux(energiesE4) * delta4
 
 file.write("/gps/hist/point 0 0.00000000\n")
 file.write("/gps/hist/point 4.8 0.00000000\n")
+#for i in range (0, 200):
+#    file.write("/gps/hist/point "+ str(energiesE5[i])+ " "+ str(fluxesE5[i])+ "\n")
+
 for i in range (0, 250):
     file.write("/gps/hist/point "+ str(energiesE1[i])+ " "+ str(fluxesE1[i])+ "\n")
 
@@ -83,6 +92,6 @@ file.write("\n")
 #plt.xscale("log")
 #plt.show()
 
-file.write("/run/beamOn 10000\n")
+file.write("/run/beamOn 10000000\n")
 
 file.close()
